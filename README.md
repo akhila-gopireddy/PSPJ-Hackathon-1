@@ -1,1 +1,1 @@
-# PSPJ-Hackathon-1
+# PSPJ-Hackathon
